@@ -13,8 +13,6 @@ This project estimates **price elasticity of demand** using a multivariate log-l
 - car
 
 ## 📂 Project Structure
-powershell
-Copy code
 Price_Elasticity_Analysis/
 ├── data/        # Dataset (pricing_data.csv)
 ├── scripts/     # R analysis script
